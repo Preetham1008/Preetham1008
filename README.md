@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preetham1008
 - 👀 I’m interested in autonomous vehicles
-- 🌱 I’m currently masters
+- 🌱 I’m currently doing masters
 - 💞️ I’m looking to collaborate on autonomous vehicles
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
